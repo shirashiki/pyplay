@@ -1,0 +1,7 @@
+# Minimalistic gitignore for Python with PyCharm
+*.iml
+## Directory-based project format:
+.idea/
+
+## For Django projects
+*.py[co]
